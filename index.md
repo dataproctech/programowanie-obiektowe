@@ -11,4 +11,4 @@ Witaj na stronie kursu **Programowanie Obiektowe**! Poniżej znajdziesz spis tre
 - [Laboratorium 5: Implementacja dziedziczenia, nadpisywania metod oraz klas abstrakcyjnych w C++ i Java](lab5/index.md)
 - [Laboratorium 6: Projektowanie systemu z wykorzystaniem polimorfizmu](lab6/index.md)
 
-[Projekt Programowanie Obiektowe – C++/Java](project/index.md)
+[Projekt semestralny – C++/Java](project/index.md)

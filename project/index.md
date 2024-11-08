@@ -36,4 +36,4 @@ W tym etapie należy dokończyć projekt poprzez:
 - Wprowadzenie testów jednostkowych (unit tests) w celu zapewnienia poprawności działania aplikacji.
 Przeprowadzenie końcowej integracji i testowania systemu.
   
-
+Repozytorium szablonu projektu znajduje się tutaj: [Project Template](https://github.com/dataproctech/project_OOP/tree/d5b928af024cf6750dcc0593c558072fdef76233)

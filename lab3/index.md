@@ -1,5 +1,9 @@
 # **Laboratorium 3: Analiza obiektowa z modelowaniem koncepcyjnym, strukturalnym i projektowaniem**
 
+## **Teoria:**
+[Prezentacja z wykladu](analiza_obiektowa.pdf)
+<p>Kliknięcie w link otworzy plik PDF w przeglądarce, umożliwiając przeglądanie lub pobranie pliku.
+
 ## **Cele:**
 
 1. Zrozumienie i zastosowanie modelowania koncepcyjnego oraz strukturalnego w analizie obiektowej.

@@ -14,3 +14,9 @@ Witaj na stronie kursu **Programowanie Obiektowe**! Poniżej znajdziesz spis tre
 [Projekt semestralny – C++/Java](project/index.md)
 
 Repozytorium szablonu projektu znajduje się tutaj: [Project Template](https://github.com/dataproctech/project_OOP/tree/d5b928af024cf6750dcc0593c558072fdef76233)
+
+## Prezentacje
+
+- [Slajdy wykładu 1](presentations/wprowadzenie.pdf)
+- [Slajdy wykładu 2](lab3/analiza_obiektowa.pdf)
+- [Slajdy wykładu 3](presentations/Cpp.pdf)

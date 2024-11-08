@@ -12,3 +12,5 @@ Witaj na stronie kursu **Programowanie Obiektowe**! Poniżej znajdziesz spis tre
 - [Laboratorium 6: Projektowanie systemu z wykorzystaniem polimorfizmu](lab6/index.md)
 
 [Projekt semestralny – C++/Java](project/index.md)
+
+Repozytorium szablonu projektu znajduje się tutaj: [Project Template](https://github.com/dataproctech/project_OOP/tree/d5b928af024cf6750dcc0593c558072fdef76233)

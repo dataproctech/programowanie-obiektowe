@@ -2,7 +2,8 @@
 
 ## **Teoria:**
 [Prezentacja z wykladu](analiza_obiektowa.pdf)
-<p>Kliknięcie w link otworzy plik PDF w przeglądarce, umożliwiając przeglądanie lub pobranie pliku.</p>
+
+Kliknięcie w link otworzy plik PDF w przeglądarce, umożliwiając przeglądanie lub pobranie pliku.
 
 ## **Cele:**
 

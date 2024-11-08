@@ -4,9 +4,9 @@ Witaj na stronie kursu **Programowanie Obiektowe**! Poniżej znajdziesz spis tre
 
 ## Spis treści
 
-- [Laboratorium 1: Wprowadzenie do klas i obiektów](lab1/index.md)
-- [Laboratorium 2: Konstruktory i destruktory](lab2/index.md)
-- [Laboratorium 3: Dziedziczenie](lab3/index.md)
-- [Laboratorium 4: Klasy abstrakcyjne i interfejsy](lab4/index.md)
-- [Laboratorium 5: Wyjątki i obsługa błędów](lab5/index.md)
-- [Laboratorium 6: Projekt systemu z polimorfizmem](lab6/index.md)
+- [Laboratorium 1: Podstawowa Struktura Klasy w C++ i Java](lab1/index.md)
+- [Laboratorium 2: Tworzenie klas z konstruktorami i destruktorami](lab2/index.md)
+- [Laboratorium 3: Analiza obiektowa z modelowaniem koncepcyjnym, strukturalnym i projektowaniem](lab3/index.md)
+- [Laboratorium 4: Praktyka ukrywania danych i enkapsulacji w Java i C++](lab4/index.md)
+- [Laboratorium 5: Implementacja dziedziczenia, nadpisywania metod oraz klas abstrakcyjnych w C++ i Java](lab5/index.md)
+- [Laboratorium 6: Projektowanie systemu z wykorzystaniem polimorfizmu](lab6/index.md)

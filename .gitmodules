@@ -1,0 +1,6 @@
+[submodule "project-template"]
+	path = project-template
+	url = https://github.com/dataproctech/project_OOP.git
+[submodule "project-templates"]
+	path = project-templates
+	url = https://github.com/dataproctech/project_OOP.git
